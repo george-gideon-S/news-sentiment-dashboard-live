@@ -1,0 +1,6 @@
+# Full deps for the local Streamlit dashboard (app.py).
+#   .venv/Scripts/python.exe -m pip install -r requirements-streamlit.txt
+-r requirements.txt
+pandas>=2.0
+streamlit>=1.33
+plotly>=5.18

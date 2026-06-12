@@ -1,0 +1,56 @@
+{
+  "last_run": "2026-06-12T13:18:12+00:00",
+  "total": 171,
+  "feeds": [
+    {
+      "name": "BBC",
+      "url": "http://feeds.bbci.co.uk/news/rss.xml",
+      "ok": true,
+      "count": 34,
+      "http_status": 302,
+      "bozo": 0,
+      "error": null,
+      "tries": 1
+    },
+    {
+      "name": "Times of India",
+      "url": "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+      "ok": true,
+      "count": 42,
+      "http_status": 200,
+      "bozo": 0,
+      "error": null,
+      "tries": 1
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "ok": true,
+      "count": 25,
+      "http_status": 200,
+      "bozo": 0,
+      "error": null,
+      "tries": 1
+    },
+    {
+      "name": "The Hindu",
+      "url": "https://www.thehindu.com/news/feeder/default.rss",
+      "ok": true,
+      "count": 60,
+      "http_status": 200,
+      "bozo": 0,
+      "error": null,
+      "tries": 1
+    },
+    {
+      "name": "NPR",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "ok": true,
+      "count": 10,
+      "http_status": 200,
+      "bozo": 0,
+      "error": null,
+      "tries": 1
+    }
+  ]
+}

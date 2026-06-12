@@ -1,0 +1,1577 @@
+{
+  "generated_at": "2026-06-12T14:05:55+00:00",
+  "total": 171,
+  "feeds": [
+    {
+      "name": "BBC",
+      "ok": true,
+      "count": 34,
+      "error": null
+    },
+    {
+      "name": "Times of India",
+      "ok": true,
+      "count": 42,
+      "error": null
+    },
+    {
+      "name": "Al Jazeera",
+      "ok": true,
+      "count": 25,
+      "error": null
+    },
+    {
+      "name": "The Hindu",
+      "ok": true,
+      "count": 60,
+      "error": null
+    },
+    {
+      "name": "NPR",
+      "ok": true,
+      "count": 10,
+      "error": null
+    }
+  ],
+  "headlines": [
+    {
+      "source": "BBC",
+      "title": "Celebrated British artist David Hockney dies aged 88",
+      "link": "https://www.bbc.com/news/articles/cvgjxdr27z4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T14:03:35+00:00",
+      "compound": 0.5719,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Ministers want 60% of children walking or cycling to school by 2035",
+      "link": "https://www.bbc.com/news/articles/c3wyezwly69o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T11:21:47+00:00",
+      "compound": 0.0772,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Grooming survivors left with criminal records still being failed, BBC told",
+      "link": "https://www.bbc.com/news/articles/cly7jjq8nr1o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T05:03:32+00:00",
+      "compound": -0.7717,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Donaldson denies meeting sex abuse accuser to 'nip in the bud' allegations",
+      "link": "https://www.bbc.com/news/articles/cwyex8lk70jo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T11:47:58+00:00",
+      "compound": -0.7906,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "London council takes possession of property linked to Sierra Leone's First Lady",
+      "link": "https://www.bbc.com/news/articles/clyxkeny8x6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T13:05:29+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Taylor Swift makes tearful 21-minute speech as she joins Songwriters Hall of Fame",
+      "link": "https://www.bbc.com/news/articles/c5yzxd0g833o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T11:12:11+00:00",
+      "compound": 0.5719,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "My friends always want to split the bill equally, how do I say no?",
+      "link": "https://www.bbc.com/news/articles/czxqdznzy7ro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-11T23:00:29+00:00",
+      "compound": 0.5267,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Israeli tech firm accused of targeting First Minister John Swinney in election",
+      "link": "https://www.bbc.com/news/articles/c77yje7n287o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T13:18:09+00:00",
+      "compound": -0.296,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "BBC",
+      "title": "'No-one knows it's on' - NBA Finals feed US World Cup apathy",
+      "link": "https://www.bbc.com/sport/football/articles/cg74rzx582ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T04:11:21+00:00",
+      "compound": -0.296,
+      "label": "negative",
+      "topic": "Sports"
+    },
+    {
+      "source": "BBC",
+      "title": "From near death to tournament hero - Jimenez's tears for Mexico",
+      "link": "https://www.bbc.com/sport/football/articles/cm2dl67rljvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T00:02:08+00:00",
+      "compound": -0.296,
+      "label": "negative",
+      "topic": "Sports"
+    },
+    {
+      "source": "BBC",
+      "title": "Bollywood star prepares for Canada's opening ceremony with song of unity",
+      "link": "https://www.bbc.com/news/articles/cvgj4dp3nkro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T12:17:02+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Entertainment"
+    },
+    {
+      "source": "BBC",
+      "title": "The World Cup of adverts: How brands are competing to entertain, not simply sell",
+      "link": "https://www.bbc.com/news/articles/c992v43m71do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T04:18:53+00:00",
+      "compound": 0.3182,
+      "label": "positive",
+      "topic": "Sports"
+    },
+    {
+      "source": "BBC",
+      "title": "Tartan Army feels the heat in Boston as World Cup kicks off",
+      "link": "https://www.bbc.com/news/articles/cj9g02g399mo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T07:57:42+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "BBC",
+      "title": "'I've never been this good' – revolutionary immune reset puts lupus in remission",
+      "link": "https://www.bbc.com/news/articles/c4gy2d9y5z3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-11T23:31:13+00:00",
+      "compound": 0.6783,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "David Hockney: Art's great innovator whose vivid paintings made him a household name",
+      "link": "https://www.bbc.com/news/articles/ck77rg88gd9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T09:52:22+00:00",
+      "compound": 0.6249,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Why the economics make this the craziest World Cup ever",
+      "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-11T23:07:52+00:00",
+      "compound": -0.0516,
+      "label": "negative",
+      "topic": "Sports"
+    },
+    {
+      "source": "BBC",
+      "title": "'I spent uni savings on getting my teeth fixed' - the real cost of NHS dentist shortage",
+      "link": "https://www.bbc.com/news/articles/czrx7pvx57eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-11T23:03:30+00:00",
+      "compound": -0.25,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Palestinian anger at rise in Israeli demolitions in East Jerusalem",
+      "link": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T05:01:48+00:00",
+      "compound": -0.5719,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Weekly quiz: Which Sesame Street character got in trouble with New Yorkers?",
+      "link": "https://www.bbc.com/news/articles/cwyexxd3378o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-11T16:46:56+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "What do Puerto Ricans think of the viral song about their homeland?",
+      "link": "https://www.bbc.com/news/articles/cwy0v85ldyjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T05:34:56+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "South Africa trolled by African fans in wake of World Cup loss",
+      "link": "https://www.bbc.com/news/articles/cm2jewrxvmjo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T10:52:42+00:00",
+      "compound": -0.3182,
+      "label": "negative",
+      "topic": "Sports"
+    },
+    {
+      "source": "BBC",
+      "title": "Nineteen now arrested over Northern Ireland disorder with house targeted in arson",
+      "link": "https://www.bbc.com/news/articles/cwy03rneqxzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T11:51:54+00:00",
+      "compound": -0.7003,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Summer warmth to return for weekend but heatwave chances fade",
+      "link": "https://www.bbc.com/weather/articles/cjdgn5rgjvlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T06:12:27+00:00",
+      "compound": 0.4939,
+      "label": "positive",
+      "topic": "Science & Environment"
+    },
+    {
+      "source": "BBC",
+      "title": "UK signals it may block payout to British Steel owner",
+      "link": "https://www.bbc.com/news/articles/c932gng1dglo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T10:57:03+00:00",
+      "compound": -0.4404,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Families mark a year since Air India crash with vigils and prayers",
+      "link": "https://www.bbc.com/news/articles/cly7j3gmvzvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T13:29:37+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Our sons are playing for two different countries at the World Cup",
+      "link": "https://www.bbc.com/news/articles/c0lygw3zpy8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T05:07:11+00:00",
+      "compound": 0.2023,
+      "label": "positive",
+      "topic": "Sports"
+    },
+    {
+      "source": "BBC",
+      "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+      "link": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T00:45:20+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "BBC News app",
+      "link": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+      "published": "2025-04-30T14:04:28+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Why Has Defence Secretary John Healey Resigned?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nq8m70?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-11T18:49:00+00:00",
+      "compound": -0.1531,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "The Democrats fight back Trump-style in Maine… but have they messed up?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0nr9b6z?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-11T04:59:00+00:00",
+      "compound": -0.5994,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "BBC",
+      "title": "Williamson ends New Zealand career during series with England",
+      "link": "https://www.bbc.com/sport/cricket/articles/c5yzg5gnpevo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T11:23:16+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Gasly's Monaco third place reinstated after appeal",
+      "link": "https://www.bbc.com/sport/formula1/articles/cevlg742y3do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T13:57:53+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "Watford great Jackett dies aged 64",
+      "link": "https://www.bbc.com/sport/football/articles/cqj1z2wqkw2o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T10:00:05+00:00",
+      "compound": 0.6249,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "BBC",
+      "title": "A new way to experience the World Cup - only on BBC Sport",
+      "link": "https://www.bbc.com/sport/football/articles/ce372ep1xlgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-12T09:24:26+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "Times of India",
+      "title": "Jaishankar exposes EU double-standard: The weapons Pakistan got from Europe",
+      "link": "https://timesofindia.indiatimes.com/defence/jaishankar-exposes-eu-double-standard-the-weapons-pakistan-got-from-europe/articleshow/131681650.cms",
+      "published": "2026-06-12T10:46:11+00:00",
+      "compound": -0.5267,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'From an opponent to a friend': Kohli pens heartfelt farewell message for Kane",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/from-an-opponent-to-a-friend-virat-kohli-pens-heartfelt-farewell-message-for-kane-williamson/articleshow/131685601.cms",
+      "published": "2026-06-12T13:02:36+00:00",
+      "compound": 0.7717,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Sole purpose not to apportion blame': AAIB on probe progress in Air India crash",
+      "link": "https://timesofindia.indiatimes.com/india/one-year-since-air-india-crash-aaib-issues-interim-statement-says-sole-purpose-of-probe-to-not-apportion-blame/articleshow/131685294.cms",
+      "published": "2026-06-12T13:03:50+00:00",
+      "compound": 0.2815,
+      "label": "positive",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "Times of India",
+      "title": "Billionaire Kevin O'Leary admits making mistakes after protests over his data center project",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/billionaire-kevin-oleary-admits-making-mistakes-after-huge-protests-over-his-giant-data-center-project-says-thats-not-the-way-i-do-/articleshow/131683373.cms",
+      "published": "2026-06-12T11:32:25+00:00",
+      "compound": -0.296,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "How women's T20s got bigger, faster and bolder",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/icc-womens-t20-world-cup/womens-t20-world-cup-how-womens-t20s-got-bigger-faster-and-bolder/articleshow/131681245.cms",
+      "published": "2026-06-12T10:51:51+00:00",
+      "compound": 0.296,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Probe continuing with diligence': Civil aviation min on 1st anniversary of Air India crash",
+      "link": "https://timesofindia.indiatimes.com/india/probe-continuing-with-diligence-civil-aviation-minister-on-first-anniversary-of-air-india-crash/articleshow/131683485.cms",
+      "published": "2026-06-12T11:43:24+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "Times of India",
+      "title": "More trouble for Mamata: FIR against ex-Bengal CM over 'inflammatory' speech",
+      "link": "https://timesofindia.indiatimes.com/india/more-trouble-for-mamata-banerjee-fir-registered-against-ex-bengal-cm-over-alleged-inflammatory-speech/articleshow/131683763.cms",
+      "published": "2026-06-12T11:53:46+00:00",
+      "compound": -0.4576,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "Google donates $50mn to train 300K workers, CEO says infrastructure is key",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/as-google-pledges-50-million-to-train-300000-american-workers-ceo-sundar-pichai-says-americas-digital-economy-relies-on-/articleshow/131673064.cms",
+      "published": "2026-06-12T03:41:48+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Technology"
+    },
+    {
+      "source": "Times of India",
+      "title": "Explained: Why Virat Kohli is not playing the first ODI vs Afghanistan in Dharamsala",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/why-virat-kohli-is-not-playing-the-first-odi-against-afghanistan-in-dharamsala/articleshow/131685159.cms",
+      "published": "2026-06-12T12:43:01+00:00",
+      "compound": -0.1511,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Jaspal Rana was heading to Germany when ... ': Uncle reveals final details",
+      "link": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/he-was-heading-to-germany-when-this-happened-uncle-reveals-final-details-before-jaspal-ranas-death/articleshow/131686204.cms",
+      "published": "2026-06-12T13:38:54+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "One year of Air India tragedy: Last calls, unfinished dreams and families left behind",
+      "link": "https://timesofindia.indiatimes.com/india/one-year-of-air-india-tragedy-last-calls-unfinished-dreams-and-families-left-behind/articleshow/131681124.cms",
+      "published": "2026-06-12T12:30:00+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "Anthropic says sorry to users of the new Claude Fable 5 model",
+      "link": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-says-sorry-to-users-of-the-new-claude-fable-5-model-says-we-apologize-for-not-getting-the-balance-right/articleshow/131680161.cms",
+      "published": "2026-06-12T09:24:49+00:00",
+      "compound": -0.0772,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Abortion pills, pool of blood': Nursing UP student found dead, boyfriend nabbed",
+      "link": "https://timesofindia.indiatimes.com/city/varanasi/nursing-student-dies-in-abortion-bid-bf-nabbed/articleshow/131668211.cms",
+      "published": "2026-06-11T19:19:42+00:00",
+      "compound": -0.6486,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'On my own terms': Kane Williamson retires from international cricket",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/kane-williamson-retires-from-international-cricket/articleshow/131681637.cms",
+      "published": "2026-06-12T10:25:33+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "Times of India",
+      "title": "Took a home loan? Understand your tax benefits and limits in FY26 under Income Tax Act",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/took-a-home-loan-understand-your-tax-benefits-and-limits-in-fy26-under-income-tax-act/articleshow/131683611.cms",
+      "published": "2026-06-12T12:05:52+00:00",
+      "compound": 0.3818,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "MP Board Class 12 supplementary result: Failed again? Here’s what students can do next",
+      "link": "https://timesofindia.indiatimes.com/education/news/mp-board-class-12-supplementary-result-2026-released-failed-again-heres-what-students-can-do-next/articleshow/131684284.cms",
+      "published": "2026-06-12T12:04:56+00:00",
+      "compound": -0.5106,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Gill hasn't really settled down yet': Ex-India cricketer sounds alarm over ODI captaincy",
+      "link": "https://timesofindia.indiatimes.com/sports/cricket/news/shubman-gill-hasnt-really-settled-down-yet-ex-india-cricketer-sounds-alarm-over-odi-captaincy/articleshow/131681236.cms",
+      "published": "2026-06-12T10:09:56+00:00",
+      "compound": -0.34,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Real TMC' to stake claim on Monday? Rebel MP's comment deepens trouble for Mamata",
+      "link": "https://timesofindia.indiatimes.com/india/to-stake-claim-as-real-tmc-rebel-mps-to-meet-lok-sabha-speaker-on-monday/articleshow/131681355.cms",
+      "published": "2026-06-12T10:12:19+00:00",
+      "compound": -0.5106,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Times of India",
+      "title": "HC issues notice on Salman Khan's plea seeking stay on 'Kala Hiran', hearing on June 19",
+      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-hc-issues-notice-on-salman-khans-plea-seeking-a-stay-on-kala-hiran-for-violating-his-personality-rights-hearing-on-june-19/articleshow/131685091.cms",
+      "published": "2026-06-12T12:41:20+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "Man buys Rs 1.14 lakh AC that wouldn't cool; court orders full refund plus Rs 25K compensation",
+      "link": "https://timesofindia.indiatimes.com/legal/news/man-buys-rs-1-14-lakh-ac-that-wouldnt-cool-delhi-court-orders-full-refund-plus-rs-25k-compensation/articleshow/131684535.cms",
+      "published": "2026-06-12T12:24:43+00:00",
+      "compound": -0.2411,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "Times of India",
+      "title": "Remembering Jaspal Rana: Indian shooting icon behind Manu Bhaker's Olympic success",
+      "link": "https://timesofindia.indiatimes.com/sports/more-sports/shooting/remembering-jaspal-rana-indian-shooting-icon-and-cwg-legend-behind-manu-bhakers-olympic-success/articleshow/131677185.cms",
+      "published": "2026-06-12T07:11:16+00:00",
+      "compound": 0.5719,
+      "label": "positive",
+      "topic": "Sports"
+    },
+    {
+      "source": "Times of India",
+      "title": "SpaceX share listing: Analysts predict $2 trillion valuation for Elon Musk-led space firm",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/spacex-share-listing-analysts-predict-2-trillion-evaluation-for-elon-musk-led-space-firm/articleshow/131679152.cms",
+      "published": "2026-06-12T09:36:54+00:00",
+      "compound": 0.296,
+      "label": "positive",
+      "topic": "Science & Environment"
+    },
+    {
+      "source": "Times of India",
+      "title": "Bengaluru child murder case gets murkier: Lawyer, lover visit IVF centre to give egg sample",
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/killed-over-complexion-3-months-after-childs-murder-bengaluru-lawyer-her-lover-visited-ivf-centre-to-give-egg-sample/articleshow/131682692.cms",
+      "published": "2026-06-12T11:11:17+00:00",
+      "compound": -0.2263,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "Times of India",
+      "title": "Sensex ends around 1,700 points up; investors richer by Rs 10.2 lakh cr - top reasons for rise",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/why-is-stock-market-rallying-today-june-12-2026-bse-sensex-rises-nifty50-top-reasons-for-rise/articleshow/131680139.cms",
+      "published": "2026-06-12T09:26:39+00:00",
+      "compound": 0.6369,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Not a single word': Rahul slams PM Modi over silence after 3 sailors killed in US strikes",
+      "link": "https://timesofindia.indiatimes.com/india/cant-protect-sons-of-mother-india-rahul-gandhi-attacks-compromised-pm-modi-for-silence-on-killing-of-indian-sailors-by-us-navy/articleshow/131679329.cms",
+      "published": "2026-06-12T09:10:50+00:00",
+      "compound": -0.7906,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Harassment': Court on wife pursuing case after Rs 20L alimony against husband",
+      "link": "https://timesofindia.indiatimes.com/legal/news/wife-continued-criminal-case-against-ex-husband-after-taking-rs-20-lakh-alimony-court-calls-it-harassment/articleshow/131680672.cms",
+      "published": "2026-06-12T10:04:42+00:00",
+      "compound": -0.5423,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "Times of India",
+      "title": "Retail inflation climbs to 3.93% in May as food prices accelerate",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/us-iran-war-impact-retail-inflation-rises-marginally-to-3-93-in-may-food-inflation-edges-up-to-4-78/articleshow/131681943.cms",
+      "published": "2026-06-12T10:41:00+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Business"
+    },
+    {
+      "source": "Times of India",
+      "title": "MP board class 12th supplementary exam result released: Direct link to download scorecards here",
+      "link": "https://timesofindia.indiatimes.com/education/news/mp-board-class-12th-supplementary-exam-result-released-at-result-mponline-gov-in-direct-link-to-download-scorecards-here/articleshow/131682471.cms",
+      "published": "2026-06-12T10:57:28+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "Mumbai, Navi Mumbai rental markets diverge as demand-supply trends shift",
+      "link": "https://timesofindia.indiatimes.com/real-estate/news/mumbai-navi-mumbai-rental-markets-diverge-amid-shifting-demand-supply-trends-industry-expert-weigh-in/articleshow/131682842.cms",
+      "published": "2026-06-12T11:21:39+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "Male corpse joke row: Mumbai's KEM Hospital to take action against Sejal Pawar",
+      "link": "https://timesofindia.indiatimes.com/city/mumbai/male-corpse-private-parts-joke-row-mumbais-kem-hospital-to-take-action-against-dr-sejal-pawar/articleshow/131679652.cms",
+      "published": "2026-06-12T09:09:24+00:00",
+      "compound": -0.3612,
+      "label": "negative",
+      "topic": "Health"
+    },
+    {
+      "source": "Times of India",
+      "title": "Zorawar light tank faces 2-year delay after Army demands heavier armour",
+      "link": "https://timesofindia.indiatimes.com/defence/news/zorawar-light-tank-faces-2-year-delay-after-army-demands-heavier-armour/articleshow/131681948.cms",
+      "published": "2026-06-12T10:46:38+00:00",
+      "compound": -0.3182,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "Is Hrithik finally eyeing Hollywood? Actor's latest international signing has sparks buzz",
+      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/is-hrithik-roshan-finally-eyeing-hollywood-actors-latest-international-signing-has-sparked-major-buzz-deets-inside/articleshow/131681410.cms",
+      "published": "2026-06-12T10:12:54+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Entertainment"
+    },
+    {
+      "source": "Times of India",
+      "title": "Why Sean Strickland was banned from UFC Freedom 250 at the White House",
+      "link": "https://timesofindia.indiatimes.com/sports/international-sports/sean-strickland-reveals-real-reason-why-he-was-banned-for-ufc-freedom-250-at-the-white-house/articleshow/131681714.cms",
+      "published": "2026-06-12T10:29:28+00:00",
+      "compound": 0.296,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Approach EC': SC rejects Congress leader Meenakshi's plea against rejection of RS nomination",
+      "link": "https://timesofindia.indiatimes.com/india/election-commission-only-remedy-sc-dismisses-meenakshi-natarajans-plea-against-rejection-of-rajya-sabha-nomination/articleshow/131677177.cms",
+      "published": "2026-06-12T07:33:40+00:00",
+      "compound": -0.7717,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "Times of India",
+      "title": "US diplomat summoned again: MEA strongly protests attacks on ships with Indians on board",
+      "link": "https://timesofindia.indiatimes.com/india/us-diplomat-summoned-again-mea-lodges-protest-against-attacks-on-ships-in-hormuz-with-indians-on-board/articleshow/131679711.cms",
+      "published": "2026-06-12T09:11:24+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "Times of India",
+      "title": "Big boost for artillery: Army likely to order 300 more K9 Vajra SPGs",
+      "link": "https://timesofindia.indiatimes.com/defence/news/big-boost-for-artillery-army-likely-to-order-300-more-k9-vajra-spgs/articleshow/131681246.cms",
+      "published": "2026-06-12T10:08:19+00:00",
+      "compound": 0.4019,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'They do it when it suits them': Jaishankar on US tariffs and shifting stance on Russian oil",
+      "link": "https://timesofindia.indiatimes.com/india/they-do-it-when-it-suits-them-jaishankar-on-us-tariffs-and-shifting-stance-on-russian-oil/articleshow/131676484.cms",
+      "published": "2026-06-12T06:53:59+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'Traitors need to resign, fight on BJP ticket': Mahua Moitra's challenge to 19 rebel TMC MPs",
+      "link": "https://timesofindia.indiatimes.com/india/traitors-need-to-resign-fight-on-bjp-ticket-mahua-moitras-challenge-to-19-rebel-tmc-mps/articleshow/131679232.cms",
+      "published": "2026-06-12T09:04:34+00:00",
+      "compound": -0.6486,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Times of India",
+      "title": "SpaceX IPO: Should Indian investors buy the stock that is set to make Elon Musk a trillionaire?",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/spacex-listing-should-indian-investors-buy-the-stock-that-is-set-to-make-elon-musk-a-trillionaire/articleshow/131677840.cms",
+      "published": "2026-06-12T07:50:40+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Business"
+    },
+    {
+      "source": "Times of India",
+      "title": "Ex-soldier survives bike crash, dies after wife and lover poison saline for Rs 2cr insurance",
+      "link": "https://timesofindia.indiatimes.com/city/bengaluru/wife-lover-eyeing-rs-2cr-insurance-kill-ex-serviceman-in-bengaluru-police-say-hospital-lab-staff-fed-him-pesticide-through-saline/articleshow/131674081.cms",
+      "published": "2026-06-12T05:01:20+00:00",
+      "compound": -0.34,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Times of India",
+      "title": "'People climbed down using sarees': Moments from Delhi apartment fire that killed mother & 2 kids",
+      "link": "https://timesofindia.indiatimes.com/city/delhi/people-climbed-down-using-sarees-horror-moments-from-blaze-in-delhi-apartment-that-killed-mother-and-two-kids/articleshow/131678479.cms",
+      "published": "2026-06-12T08:06:16+00:00",
+      "compound": -0.7845,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Times of India",
+      "title": "Salman Khan moves to Delhi HC for stay on 'Kala Hiran', teaser dropped",
+      "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-moves-to-delhi-high-court-for-an-immediate-stay-on-kala-hiran-as-the-makers-drop-the-films-teaser-report/articleshow/131678744.cms",
+      "published": "2026-06-12T08:23:22+00:00",
+      "compound": -0.25,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Video: AI models predict World Cup results",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-ai-models-predict-world-cup-results?traffic_source=rss",
+      "published": "2026-06-12T13:29:12+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Backlash after US actor Jerry Seinfeld says Palestine ‘doesn’t exist’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/backlash-after-us-actor-jerry-seinfeld-says-palestine-doesnt?traffic_source=rss",
+      "published": "2026-06-12T13:18:28+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Entertainment"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Are Iran, US really close to a breakthrough ‘deal’?",
+      "link": "https://www.aljazeera.com/features/2026/6/12/are-iran-us-really-close-to-a-breakthrough-deal?traffic_source=rss",
+      "published": "2026-06-12T13:16:30+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "London mayor slams event touting illegal Israeli settlement land sales",
+      "link": "https://www.aljazeera.com/news/2026/6/12/london-mayor-slams-event-touting-illegal-israeli-settlement-land-sales?traffic_source=rss",
+      "published": "2026-06-12T13:01:19+00:00",
+      "compound": -0.6486,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Renowned British artist David Hockney dies aged 88",
+      "link": "https://www.aljazeera.com/news/2026/6/12/renowned-british-artist-david-hockney-dies-aged-88?traffic_source=rss",
+      "published": "2026-06-12T12:19:54+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Thai Princess Bajrakitiyabha dies after years in coma",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/thai-princess-bajrakitiyabha-dies-after-years-in-coma?traffic_source=rss",
+      "published": "2026-06-12T12:15:06+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Violence escalates in Israel amid ultra-Orthodox military draft protests",
+      "link": "https://www.aljazeera.com/news/2026/6/12/violence-escalates-in-israel-amid-ultra-orthodox-military-draft-protests?traffic_source=rss",
+      "published": "2026-06-12T12:08:33+00:00",
+      "compound": -0.7184,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "One injured as Israel hits southern Lebanon with air raids, artillery",
+      "link": "https://www.aljazeera.com/news/2026/6/12/one-injured-as-israel-hits-southern-lebanon-with-air-raids-artillery?traffic_source=rss",
+      "published": "2026-06-12T12:02:56+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "A year after Air India crash killed 260: Do we know what happened?",
+      "link": "https://www.aljazeera.com/news/2026/6/12/a-year-after-air-india-crash-killed-260-do-we-know-what-happened?traffic_source=rss",
+      "published": "2026-06-12T11:32:18+00:00",
+      "compound": -0.802,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "France-Germany jet plans crash: Can Europe end reliance on US for security?",
+      "link": "https://www.aljazeera.com/features/2026/6/12/france-germany-jet-plans-crash-can-europe-ever-end-us-security-reliance?traffic_source=rss",
+      "published": "2026-06-12T11:30:40+00:00",
+      "compound": -0.0772,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Nigeria killed more than 13,000 ‘terrorists’ in past year, president says",
+      "link": "https://www.aljazeera.com/news/2026/6/12/nigeria-killed-more-than-13000-terrorists-in-past-year-president-says?traffic_source=rss",
+      "published": "2026-06-12T11:11:47+00:00",
+      "compound": -0.6705,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Riots, violence, hate: Anti-immigrant unrest spells danger in Belfast",
+      "link": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast?traffic_source=rss",
+      "published": "2026-06-12T10:43:15+00:00",
+      "compound": -0.9382,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "New Zealand great Kane Williamson retires from international cricket",
+      "link": "https://www.aljazeera.com/sports/2026/6/12/new-zealand-great-kane-williamson-retires-from-international-cricket?traffic_source=rss",
+      "published": "2026-06-12T10:36:49+00:00",
+      "compound": 0.6249,
+      "label": "positive",
+      "topic": "Sports"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iraq’s paramilitary groups say they will disarm. Will that ever happen?",
+      "link": "https://www.aljazeera.com/news/2026/6/12/iraq-analysis-militias-disarm?traffic_source=rss",
+      "published": "2026-06-12T09:55:11+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Family mourn Indian sailor killed in US strike on oil tanker",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/family-mourn-indian-sailor-killed-in-us-strike-on-oil-tanker?traffic_source=rss",
+      "published": "2026-06-12T09:51:11+00:00",
+      "compound": -0.8316,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "‘Torture isn’t new to Palestinians’: How Israel learned from colonialism",
+      "link": "https://www.aljazeera.com/features/2026/6/12/torture-isnt-new-to-palestinians-how-israel-learned-from-colonialism?traffic_source=rss",
+      "published": "2026-06-12T09:40:26+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "USA vs Paraguay: World Cup 2026 group match – Trump, schedule, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/6/12/usa-vs-paraguay-world-cup-2026-group-match-trump-schedule-lineups?traffic_source=rss",
+      "published": "2026-06-12T09:39:59+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Is Israel’s ‘buffer zone’ inside Lebanon an attempt to grab gas reserves?",
+      "link": "https://www.aljazeera.com/features/2026/6/12/is-israels-buffer-zone-inside-lebanon-an-attempt-to-grab-gas-reserves?traffic_source=rss",
+      "published": "2026-06-12T09:35:08+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Video: What Iran’s football fans think about the World Cup",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss",
+      "published": "2026-06-12T09:34:33+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "China arrests US researcher it says is suspected of ‘spying’",
+      "link": "https://www.aljazeera.com/news/2026/6/12/china-arrests-us-researcher-it-says-is-suspected-of-spying?traffic_source=rss",
+      "published": "2026-06-12T09:18:01+00:00",
+      "compound": -0.5859,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "One in 17 children is working: Here are the industries driving child labour",
+      "link": "https://www.aljazeera.com/news/2026/6/12/one-in-17-children-is-working-here-are-the-industries-driving-child-labour?traffic_source=rss",
+      "published": "2026-06-12T09:01:55+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "World Cup 2026 opening day takeaways: Red cards, VAR and hydration breaks",
+      "link": "https://www.aljazeera.com/sports/2026/6/12/world-cup-2026-day-1-key-takeaways-var-hydration-breaks-red-cards-son-heung-min-zwane?traffic_source=rss",
+      "published": "2026-06-12T08:29:53+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Air India crash: Grieving families say justice remains elusive a year later",
+      "link": "https://www.aljazeera.com/news/2026/6/12/air-india-flight-171-crash-grieving-families-wait-for-justice-a-year-later?traffic_source=rss",
+      "published": "2026-06-12T08:10:36+00:00",
+      "compound": -0.3818,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Three killed as Ukraine and Russia exchange cross-border attacks",
+      "link": "https://www.aljazeera.com/news/2026/6/12/three-killed-as-ukraine-and-russia-exchange-cross-border-attacks?traffic_source=rss",
+      "published": "2026-06-12T07:55:07+00:00",
+      "compound": -0.8126,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss",
+      "published": "2026-06-12T07:49:29+00:00",
+      "compound": -0.6705,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Minister Aadhav Arjuna reviews projects in Tiruvannamalai",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/minister-aadhav-arjuna-reviews-projects-in-tiruvannamalai/article71093486.ece",
+      "published": "2026-06-12T14:00:25+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Politics"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Drunken brawl near Kukatpally Metro Station leaves man with serious eye injury",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/drunken-brawl-near-kukatpally-metro-station-leaves-man-with-serious-eye-injury/article71093852.ece",
+      "published": "2026-06-12T14:00:20+00:00",
+      "compound": -0.4767,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Arctic Tern sighted in Kollam for the first time",
+      "link": "https://www.thehindu.com/news/national/kerala/arctic-tern-sighted-in-kollam-for-the-first-time/article71089278.ece",
+      "published": "2026-06-12T13:59:40+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Kanniyakumari Collector announces agricultural machinery, equipment rental through e-rent (Vaadagai) application",
+      "link": "https://www.thehindu.com/news/cities/Madurai/kanniyakumari-collector-announces-agricultural-machinery-equipment-rental-through-e-rent-vaadagai-application/article71093868.ece",
+      "published": "2026-06-12T13:58:29+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Scientists must focus on making farming profitable: Guntur Collector",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/scientists-must-focus-on-making-farming-profitable-guntur-collector/article71093338.ece",
+      "published": "2026-06-12T13:58:24+00:00",
+      "compound": 0.4404,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Youth rescued after being trapped in Uppal Skywalk lift for 2 hours",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/youth-rescued-after-being-trapped-in-uppal-skywalk-lift-for-2-hours/article71092454.ece",
+      "published": "2026-06-12T13:57:31+00:00",
+      "compound": -0.1531,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "6-year-old’s murder in Bengaluru: Three police officers suspended for dereliction of duty in handling the case",
+      "link": "https://www.thehindu.com/news/cities/bangalore/6-year-olds-murder-in-bengaluru-three-police-officers-suspended-for-dereliction-of-duty-in-handling-the-case/article71093464.ece",
+      "published": "2026-06-12T13:56:31+00:00",
+      "compound": -0.8316,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Precautions being taken at T.N. border checkposts after Nipah virus case reported in Kerala",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/precautions-being-taken-at-tn-border-checkposts-after-nipah-virus-case-reported-in-kerala/article71093012.ece",
+      "published": "2026-06-12T13:55:19+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Health"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Telangana CID gets AI-powered crime analytics lab to strengthen investigations",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-cid-gets-ai-powered-crime-analytics-lab-to-strengthen-investigations/article71093513.ece",
+      "published": "2026-06-12T13:54:43+00:00",
+      "compound": -0.296,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Rising cost of construction materials delays completion of Ukkadam bus stand’s Terminal II in Coimbatore",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/rising-cost-of-construction-materials-delays-completion-of-ukkadam-bus-stands-terminal-ii-in-coimbatore/article71093576.ece",
+      "published": "2026-06-12T13:53:50+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Lone tusk found hidden in Anamalai Tiger Reserve triggers investigation",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/lone-tusk-found-hidden-in-anamalai-tiger-reserve-triggers-investigation/article71093820.ece",
+      "published": "2026-06-12T13:53:26+00:00",
+      "compound": -0.2732,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Woman arrested for posing as DSP in Vellore",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/woman-arrested-for-posing-as-dsp-in-vellore/article71093479.ece",
+      "published": "2026-06-12T13:52:26+00:00",
+      "compound": -0.4767,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Will new CM order for CBI probe to unravel inter-State conspiracy to tarnish image of Dharmasthala, asks V. Sunil Kumar",
+      "link": "https://www.thehindu.com/news/cities/Mangalore/will-new-cm-order-for-cbi-probe-to-unravel-inter-state-conspiracy-to-tarnish-image-of-dharmasthala-asks-v-sunil-kumar/article71092907.ece",
+      "published": "2026-06-12T13:51:54+00:00",
+      "compound": -0.5267,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Traffic diversions in place near Indira Park from June 13-15 for bridge reconstruction works",
+      "link": "https://www.thehindu.com/news/national/telangana/traffic-diversions-in-place-near-indira-park-from-june-13-15-for-bridge-reconstruction-works/article71093793.ece",
+      "published": "2026-06-12T13:50:50+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Vijayapura farmers to be trained in sustainable dairy farming",
+      "link": "https://www.thehindu.com/news/national/karnataka/vijayapura-farmers-to-be-trained-in-sustainable-dairy-farming/article71093260.ece",
+      "published": "2026-06-12T13:50:27+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Assam border oil exploration before ‘Indo-Naga’ political settlement is illegal: Naga extremist groups",
+      "link": "https://www.thehindu.com/news/national/assam/assam-border-oil-exploration-before-indo-naga-political-settlement-is-illegal-naga-extremist-groups/article71093884.ece",
+      "published": "2026-06-12T13:49:54+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Three held for smashing CCTV cameras on highways",
+      "link": "https://www.thehindu.com/news/cities/Madurai/three-held-for-smashing-cctv-cameras-on-highways/article71093808.ece",
+      "published": "2026-06-12T13:49:18+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "From zero to 26, estimation shows signs of Nilgiri Tahrs’ revival in Coimbatore Forest Division",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/from-zero-to-26-estimation-shows-signs-of-nilgiri-tahrs-revival-in-coimbatore-forest-division/article71093605.ece",
+      "published": "2026-06-12T13:48:25+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "T.N. CM Vijay announces Kuruvai Special Package for paddy cultivation at a cost of ₹134.83 crore",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-vijay-announces-kuruvai-special-package-for-paddy-cultivation-at-a-cost-of-13483-crore/article71092331.ece",
+      "published": "2026-06-12T13:48:11+00:00",
+      "compound": 0.4019,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Uttam Kumar Reddy meets Chhattisgarh CM, pursues NOC for Sammakka-Sarakka Project",
+      "link": "https://www.thehindu.com/news/national/telangana/uttam-kumar-reddy-meets-chhattisgarh-cm-pursues-noc-for-sammakka-sarakka-project/article71093592.ece",
+      "published": "2026-06-12T13:44:27+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Yoga essential to maintain a balanced lifestyle, says Chittoor Collector",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/yoga-essential-to-maintain-a-balanced-lifestyle-says-chittoor-collector/article71093515.ece",
+      "published": "2026-06-12T13:44:11+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Rahul Gandhi attacks PM over deaths of Indian seafarers in U.S. strikes",
+      "link": "https://www.thehindu.com/news/national/rahul-gandhi-attacks-pm-over-deaths-of-indian-seafarers-in-us-strikes/article71093520.ece",
+      "published": "2026-06-12T13:43:55+00:00",
+      "compound": -0.6597,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Tiruchi Railway Division bags eight efficiency shields",
+      "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/tiruchi-railway-division-bags-eight-efficiency-shields/article71093948.ece",
+      "published": "2026-06-12T13:43:41+00:00",
+      "compound": 0.3612,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Kerala schools battle stealthy makeup addiction",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-schools-battle-stealthy-makeup-addiction/article71093857.ece",
+      "published": "2026-06-12T13:43:26+00:00",
+      "compound": -0.4019,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "A.P. rowing chief represents Indian contingent at World Championship",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-rowing-chief-represents-indian-contingent-at-world-championship/article71093102.ece",
+      "published": "2026-06-12T13:43:24+00:00",
+      "compound": 0.4404,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Three arrested in Hyderabad for manufacturing and selling spurious cotton seeds",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/three-arrested-in-hyderabad-for-manufacturing-and-selling-spurious-cotton-seeds/article71093713.ece",
+      "published": "2026-06-12T13:42:55+00:00",
+      "compound": -0.4767,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Debate on real TMC settled; Mamata, Abhishek represent fake TMC: BJP",
+      "link": "https://www.thehindu.com/news/national/west-bengal/debate-on-real-tmc-settled-mamata-abhishek-represent-fake-tmc-bjp/article71093653.ece",
+      "published": "2026-06-12T13:40:24+00:00",
+      "compound": -0.4767,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "KTU records 60.1% pass percentage in B.Tech exams, highest in university’s history",
+      "link": "https://www.thehindu.com/news/national/kerala/ktu-records-601-pass-percentage-in-btech-exams-highest-in-universitys-history/article71093468.ece",
+      "published": "2026-06-12T13:39:36+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Technology"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Andhra Pradesh seafarers caught in the Gulf of Oman’s line of fire",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-seafarers-caught-in-the-gulf-of-omans-line-of-fire/article71093481.ece",
+      "published": "2026-06-12T13:38:57+00:00",
+      "compound": -0.34,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "J&K CM raises concern over 15-day closure of Srinagar airport with Defence, Civil Aviation Ministers",
+      "link": "https://www.thehindu.com/news/national/jampk-cm-raises-concern-over-15-day-closure-of-srinagar-airport-with-defence-civil-aviation-ministers/article71093175.ece",
+      "published": "2026-06-12T13:38:36+00:00",
+      "compound": 0.1027,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Biodiversity committees must be formed in all taluks: Board chairman",
+      "link": "https://www.thehindu.com/news/national/karnataka/biodiversity-committees-must-be-formed-in-all-taluks-board-chairman/article71093634.ece",
+      "published": "2026-06-12T13:36:58+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Top ranks for Vijayapura Unani college",
+      "link": "https://www.thehindu.com/news/national/karnataka/top-ranks-for-vijayapura-unani-college/article71089564.ece",
+      "published": "2026-06-12T13:36:20+00:00",
+      "compound": 0.2023,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Kurnool Collector urges students to focus on academics for future success",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-collector-urges-students-to-focus-on-academics-for-future-success/article71093593.ece",
+      "published": "2026-06-12T13:36:16+00:00",
+      "compound": 0.5719,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Tiruchi Railway Junction to get six additional escalators by month-end",
+      "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/tiruchi-railway-junction-to-get-six-additional-escalators-by-month-end/article71093802.ece",
+      "published": "2026-06-12T13:34:56+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Education key to eliminating child labour, says DLSA Secretary",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/education-key-to-eliminating-child-labour-says-dlsa-secretary/article71093222.ece",
+      "published": "2026-06-12T13:34:42+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Two arrested for manufacturing mephedrone in Abdullapurmet; ₹1 crore worth drugs and equipment seized",
+      "link": "https://www.thehindu.com/news/national/telangana/two-arrested-for-manufacturing-mephedrone-in-abdullapurmet-1-crore-worth-drugs-and-equipment-seized/article71093594.ece",
+      "published": "2026-06-12T13:32:22+00:00",
+      "compound": -0.296,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "AAIB issues interim statement on Ahmedabad plane crash probe, says purpose ‘not to apportion blame or liability’",
+      "link": "https://www.thehindu.com/news/national/ahmedabad-air-india-plane-crash-one-year-aaib-interim-statement-on-probe-report/article71093879.ece",
+      "published": "2026-06-12T13:31:47+00:00",
+      "compound": -0.6249,
+      "label": "negative",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Karnataka to establish 50 AI labs in government colleges in tier-2 and 3 cities",
+      "link": "https://www.thehindu.com/news/cities/bangalore/karnataka-to-establish-50-ai-labs-in-government-colleges-in-tier-2-and-3-cities/article71093777.ece",
+      "published": "2026-06-12T13:31:03+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Politics"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Road caves in at Ganapathy in Coimbatore following drinking water pipeline leak",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/road-caves-in-at-ganapathy-in-coimbatore-following-drinking-water-pipeline-leak/article71093712.ece",
+      "published": "2026-06-12T13:30:55+00:00",
+      "compound": -0.34,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Burglars steal 550 liquor bottles at a Tasmac outlet near Arani",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/burglars-steal-550-liquor-bottles-at-a-tasmac-outlet-near-arani/article71093476.ece",
+      "published": "2026-06-12T13:28:31+00:00",
+      "compound": -0.4939,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Governor congratulates Sangeet Natak Akademi awardee Gummadi Gopalakrishna",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/governor-congratulates-sangeet-natak-akademi-awardee-gummadi-gopalakrishna/article71092714.ece",
+      "published": "2026-06-12T13:27:21+00:00",
+      "compound": 0.4215,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Minister directs officials to check the accident rate in Ariyalur",
+      "link": "https://www.thehindu.com/news/cities/Tiruchirapalli/minister-directs-officials-to-check-the-accident-rate-in-ariyalur/article71093753.ece",
+      "published": "2026-06-12T13:25:10+00:00",
+      "compound": -0.4767,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Swarga Foundation in Coimbatore launches four differently abled friendly initiatives",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/swarga-foundation-in-coimbatore-launches-four-differently-abled-friendly-initiatives/article71093018.ece",
+      "published": "2026-06-12T13:24:34+00:00",
+      "compound": 0.4939,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Chief Justice of A.P. High Court Lisa Gill offers prayers at Tirumala",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/chief-justice-of-ap-high-court-lisa-gill-offers-prayers-at-tirumala/article71093179.ece",
+      "published": "2026-06-12T13:23:06+00:00",
+      "compound": 0.5267,
+      "label": "positive",
+      "topic": "Crime & Justice"
+    },
+    {
+      "source": "The Hindu",
+      "title": "ED files protest petition against DVAC’s attempt to close ₹27.90 crore bribery case against former Minister Vaithilingam",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/ed-files-protest-petition-against-dvacs-attempt-to-close-2790-crore-bribery-case-against-former-minister-vaithilingam/article71090724.ece",
+      "published": "2026-06-12T13:21:41+00:00",
+      "compound": -0.25,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Andhra University invites applications for temporary teaching positions",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-university-invites-applications-for-temporary-teaching-positions/article71093729.ece",
+      "published": "2026-06-12T13:21:30+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "26-year-old gets new lease of life after heart transplant",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/26-year-old-gets-new-lease-of-life-after-heart-transplant/article71093316.ece",
+      "published": "2026-06-12T13:20:09+00:00",
+      "compound": 0.6369,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "U.K. PM Starmer says he has not lost authority, will fight to stay in job",
+      "link": "https://www.thehindu.com/news/international/uk-pm-starmer-says-he-has-not-lost-authority-will-fight-to-stay-in-job/article71093837.ece",
+      "published": "2026-06-12T13:19:53+00:00",
+      "compound": -0.2168,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Composite Skill Lab at Notre Dame School and PU College inaugurated in Mysuru",
+      "link": "https://www.thehindu.com/news/national/karnataka/composite-skill-lab-at-notre-dame-school-and-pu-college-inaugurated-in-mysuru/article71093650.ece",
+      "published": "2026-06-12T13:19:37+00:00",
+      "compound": -0.4278,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Masked intruders rob woman of 16 sovereigns, cash at gunpoint in Namakkal",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/masked-intruders-rob-woman-of-16-sovereigns-cash-at-gunpoint-in-namakkal/article71093248.ece",
+      "published": "2026-06-12T13:17:38+00:00",
+      "compound": -0.5574,
+      "label": "negative",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Weaving a livelihood for the visually challenged",
+      "link": "https://www.thehindu.com/news/cities/chennai/weaving-a-livelihood-for-the-visually-challenged/article71093833.ece",
+      "published": "2026-06-12T13:16:26+00:00",
+      "compound": 0.1027,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Stricter enforcement measures planned for CRZ violations, industrial pollution: T.N. Environment Minister",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/stricter-enforcement-measures-planned-for-crz-violations-industrial-pollution-tn-environment-minister/article71093507.ece",
+      "published": "2026-06-12T13:14:07+00:00",
+      "compound": -0.5267,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Tamil Nadu Today: CPI exits DMK-led alliance",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-today-newsletter-cpi-exits-dmk-led-alliance-june-11-2026/article71089518.ece",
+      "published": "2026-06-12T13:13:27+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Malnad region received ₹22,000 crore under Modi regime: Shivamogga MP",
+      "link": "https://www.thehindu.com/news/national/karnataka/malnad-region-received-22000-crore-under-modi-regime-shivamogga-mp/article71093673.ece",
+      "published": "2026-06-12T13:12:53+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Politics"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Man, two grandchildren killed in a road accident in Ranipet",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/man-two-grandchildren-killed-in-a-road-accident-in-ranipet/article71092628.ece",
+      "published": "2026-06-12T13:12:29+00:00",
+      "compound": -0.8225,
+      "label": "negative",
+      "topic": "Conflict & War"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Free orthopaedic medical camp to be held in Guntur on June 14",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/free-orthopaedic-medical-camp-to-be-held-in-guntur-on-june-14/article71092241.ece",
+      "published": "2026-06-12T13:11:28+00:00",
+      "compound": 0.5106,
+      "label": "positive",
+      "topic": "Health"
+    },
+    {
+      "source": "The Hindu",
+      "title": "CODISSIA seeks special scheme to promote rooftop solar energy among MSMEs",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/codissia-seeks-special-scheme-to-promote-rooftop-solar-energy-among-msmes/article71093315.ece",
+      "published": "2026-06-12T13:09:18+00:00",
+      "compound": 0.7506,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "West Asia War LIVE: Netanyahu says in 'full agreement' with Trump for Iran not to acquire nuclear weapons",
+      "link": "https://www.thehindu.com/news/international/us-israel-iran-war-live-updates-bandar-abbas-strikes-strait-of-hormuz-mojtaba-khamenei-donald-trump-tehran-deal-june-12-2026/article71092034.ece",
+      "published": "2026-06-12T13:07:53+00:00",
+      "compound": -0.5574,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Tamil Nadu Today: Director Bharathiraja passes away",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-today-newsletter-director-bharathiraja-passes-away-june-10-2026/article71085566.ece",
+      "published": "2026-06-12T13:06:37+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "The Hindu",
+      "title": "Delhi HC refuses to direct reopening of CBSE re-evaluation portal for Class 12 answer sheets",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-hc-refuses-to-direct-reopening-of-cbse-re-evaluation-portal-for-class-12-answer-sheets/article71093445.ece",
+      "published": "2026-06-12T13:05:49+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "General"
+    },
+    {
+      "source": "NPR",
+      "title": "Canada is ready to become a soccer nation as it hosts World Cup opener against Bosnia-Herzegovina",
+      "link": "https://www.npr.org/2026/06/12/g-s1-127720/canada-world-cup-bosnia-herzegovina",
+      "published": "2026-06-12T12:47:49+00:00",
+      "compound": 0.3612,
+      "label": "positive",
+      "topic": "Sports"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
+      "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
+      "published": "2026-06-12T10:42:59+00:00",
+      "compound": -0.5267,
+      "label": "negative",
+      "topic": "Politics"
+    },
+    {
+      "source": "NPR",
+      "title": "Which billionaire said they learned a 'significant lesson' this week? The quiz knows",
+      "link": "https://www.npr.org/2026/06/12/g-s1-127424/trump-knicks-musk-world-cup-apple-news-quiz",
+      "published": "2026-06-12T09:02:00+00:00",
+      "compound": 0.2023,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "NPR",
+      "title": "She waited decades for Scotland to make the World Cup. At 93, she'll cheer in person",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5842854/scotland-world-cup-tartan-army-fans",
+      "published": "2026-06-12T09:02:00+00:00",
+      "compound": 0.5106,
+      "label": "positive",
+      "topic": "Sports"
+    },
+    {
+      "source": "NPR",
+      "title": "How small-business loans got caught in Trump's immigration crackdown",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5853375/changes-loans-trump-small-business-immigrants-entrepreneurs-green-card",
+      "published": "2026-06-12T09:01:00+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Politics"
+    },
+    {
+      "source": "NPR",
+      "title": "Referees at the World Cup have new rules to whistle during games",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5855234/2026-world-cup-fifa-soccer-referees-officials-laws-ifab",
+      "published": "2026-06-12T09:00:00+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    },
+    {
+      "source": "NPR",
+      "title": "Your cheat sheet to the 26 players on the U.S. World Cup team",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5855763/2026-world-cup-usmnt-players-roster",
+      "published": "2026-06-12T09:00:00+00:00",
+      "compound": -0.4588,
+      "label": "negative",
+      "topic": "Sports"
+    },
+    {
+      "source": "NPR",
+      "title": "Can smartphones help explain the drop in birth rates?",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5851795/iphone-birth-rate-drop",
+      "published": "2026-06-12T09:00:00+00:00",
+      "compound": 0.1531,
+      "label": "positive",
+      "topic": "General"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump's DOJ can't get names and medical files of trans youth in California, for now",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5855728/transgender-youth-healthcare-trump-subpoena",
+      "published": "2026-06-12T09:00:00+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Politics"
+    },
+    {
+      "source": "NPR",
+      "title": "The U.S. men's team is set to take on Paraguay in its World Cup opener",
+      "link": "https://www.npr.org/2026/06/12/nx-s1-5850736/2026-world-cup-usmnt-paraguay",
+      "published": "2026-06-12T09:00:00+00:00",
+      "compound": 0.0,
+      "label": "neutral",
+      "topic": "Sports"
+    }
+  ]
+}

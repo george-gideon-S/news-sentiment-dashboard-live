@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "dashboard",
+      "runtimeExecutable": ".venv/Scripts/python.exe",
+      "runtimeArgs": [
+        "-m", "streamlit", "run", "app.py",
+        "--server.port", "8502",
+        "--server.address", "localhost",
+        "--server.headless", "true",
+        "--browser.gatherUsageStats", "false"
+      ],
+      "port": 8502
+    },
+    {
+      "name": "web",
+      "runtimeExecutable": ".venv/Scripts/python.exe",
+      "runtimeArgs": ["-m", "http.server", "8600", "--directory", "."],
+      "port": 8600
+    }
+  ]
+}

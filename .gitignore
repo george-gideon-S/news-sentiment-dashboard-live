@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# Streamlit
+.streamlit/
+
+# Vercel
+.vercel/
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

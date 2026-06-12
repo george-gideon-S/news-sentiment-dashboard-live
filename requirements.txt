@@ -1,0 +1,6 @@
+# Lean deps — used by the Vercel serverless function (api/refresh.py) and the
+# snapshot generator (build_data.py). No pandas/streamlit here on purpose: the
+# Vercel function must stay small and fast, and the web frontend does all the
+# aggregation in JS. For the local Streamlit app, use requirements-streamlit.txt.
+feedparser>=6.0.11
+vaderSentiment>=3.3.2
