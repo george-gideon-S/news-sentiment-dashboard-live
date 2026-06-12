@@ -1,0 +1,23 @@
+# The Vercel deployment is a STATIC site: index.html + data.json only.
+# The Python below stays in the repo (Streamlit app + the optional serverless
+# function), but is excluded from the static deploy so Vercel doesn't try to
+# build it as a Python app.
+.venv/
+__pycache__/
+*.pyc
+data/
+.streamlit/
+.claude/
+
+# Python — kept in the repo, not part of the static Vercel build
+api/
+core.py
+requirements.txt
+requirements-streamlit.txt
+app.py
+scrape.py
+sentiment.py
+topics.py
+pipeline.py
+feeds.py
+build_data.py

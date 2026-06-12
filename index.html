@@ -336,7 +336,8 @@ async function liveRefresh() {
     setData(payload);
     toast(`Refreshed · ${payload.headlines.length} live headlines`);
   } catch (e) {
-    toast("Live refresh unavailable (" + e.message + ") — showing last snapshot");
+    console.warn("Live refresh failed:", e);
+    toast("Showing the latest saved snapshot — live refresh isn't enabled on this hosted page.");
   } finally {
     btn.disabled = false; btn.textContent = orig;
   }
