@@ -6,6 +6,7 @@ negative or neutral.
 
 **Live (Vercel):** https://news-sentiment-dashboard-live.vercel.app
 **Feeds:** BBC · Times of India · Al Jazeera · The Hindu · NPR
+**Walkthrough notebook:** [`News_Sentiment_Dashboard.ipynb`](News_Sentiment_Dashboard.ipynb) — the entire project in one runnable, executed file (start here to understand it end-to-end)
 
 ---
 
