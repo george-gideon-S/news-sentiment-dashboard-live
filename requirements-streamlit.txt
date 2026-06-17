@@ -1,6 +1,5 @@
-# Full deps for the local Streamlit dashboard (app.py).
+# Local install for the Streamlit dashboard (kept for the documented command):
 #   .venv/Scripts/python.exe -m pip install -r requirements-streamlit.txt
+# All runtime deps now live in requirements.txt (the file Streamlit Cloud reads),
+# so this just points at it to avoid drift.
 -r requirements.txt
-pandas>=2.0
-streamlit>=1.33
-plotly>=5.18

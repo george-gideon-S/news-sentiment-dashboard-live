@@ -1,6 +1,12 @@
-# Lean deps — used by the Vercel serverless function (api/refresh.py) and the
-# snapshot generator (build_data.py). No pandas/streamlit here on purpose: the
-# Vercel function must stay small and fast, and the web frontend does all the
-# aggregation in JS. For the local Streamlit app, use requirements-streamlit.txt.
+# Dependencies for the News Sentiment Dashboard (Streamlit app — app.py).
+# Streamlit Community Cloud installs from this file automatically, so it must
+# list everything the app imports at runtime.
+#
+# The static Vercel deploy ignores this file (see .vercelignore). The optional
+# serverless function api/refresh.py needs only the last two (feedparser +
+# vaderSentiment).
+streamlit>=1.33
+plotly>=5.18
+pandas>=2.0
 feedparser>=6.0.11
 vaderSentiment>=3.3.2
